@@ -1,0 +1,17 @@
+{
+  "name": "reddit-clone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "author": "Emile Fleming <emile.fleming@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  },
+  "dependencies": {
+    "angular": "1.6.0"
+  },
+  "scripts": {
+    "start": "lite-server"
+  }
+}
